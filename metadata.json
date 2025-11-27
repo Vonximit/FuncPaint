@@ -1,0 +1,5 @@
+{
+  "name": "FuncPaint Cosmic",
+  "description": "A cosmic generative art application where you paint by invoking mathematical functions. Features a Gemini-powered Cosmic Muse.",
+  "requestFramePermissions": []
+}
